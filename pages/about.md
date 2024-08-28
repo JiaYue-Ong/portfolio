@@ -1,11 +1,11 @@
 ---
 layout: about
 title: About Me
-headshot: /assets/img/headshot.webp
+headshot: /assets/img/Jia Yue_Dolomites Pic.jpg
 permalink: /about
 ---
 
 # Ong Jia Yue
 
-Testing
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I am a Master of Urban Spatial Analytics student at University of Pennsylvania. I completed my undergraduate in Philosophy, Politics and Economics at University College London.
+I am passionate about society, especially the history of nations' development and social forces that shape our lives. I am also interested in acquring essential data skills that will advance my understanding of society and decision-making.
